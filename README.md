@@ -1,4 +1,4 @@
-## Image_Style_Transfer
+## AI_Image_Style_Transfer
 
 An application that transforms user-uploaded photos into the style of famous artworks.
 
